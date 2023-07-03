@@ -1,0 +1,11 @@
+{
+  "background_color": "#AAA",
+  "display": "standalone",
+  "name": "Pruebas Onlain",
+  "short_name": "pruebitas",
+  "version": "1.0",
+  "description": "Namas una cosa pa probar hosts / invitados",
+  "author": "drewnyr",
+  "icons": [],
+  "start_url": "index.html"
+}
